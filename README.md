@@ -1,6 +1,6 @@
 # ectoderm-myeloid-tracking-analysis
 
-This repo hosts the code for the python-based quantitative analysis of tracking data in the paper entitled "[Tissue flow acts as a guidance cue for immune cell polarisation and directional migration](https://github.com/WhoIsJack/ectoderm-myeloid-tracking-analysis)" [link to paper coming soon] by Hoang Anh Le and colleagues, as described in the Materials and Methods section under the heading `Trajectory deviation, speed correlation, and cosine similarity analyses`. All code was written by Jonas Hartmann.
+This repo hosts the code for the python-based quantitative analysis of tracking data in the paper entitled "[Tissue flow acts as a guidance cue for immune cell polarisation and directional migration](https://doi.org/10.1038/s41556-026-02058-9)" by Hoang Anh Le and colleagues, as described in the Materials and Methods section under the heading `Trajectory deviation, speed correlation, and cosine similarity analyses`. All code was written by Jonas Hartmann.
 
 
 ### Analyses Included
